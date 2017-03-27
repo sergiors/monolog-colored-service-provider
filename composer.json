@@ -30,7 +30,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Sergiors\\Silex\\Tests\\": "src"
+            "Sergiors\\Silex\\Tests\\": "tests"
         }
     }
 }
